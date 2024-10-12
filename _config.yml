@@ -21,7 +21,7 @@ repository               : "SliverBulle/SliverBulle.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "author.png"
+  avatar           : "images/author.png"
   name             : "Lei Hu"
   pronouns         : "he/him"  
   bio              : "M.S. student of computer science and engineering at University of California, San Diego. "
