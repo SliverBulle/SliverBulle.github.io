@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 Lei Hu
 ======
 📞 858.568.5770  ✉️ [leh013@ucsd.edu](mailto:leh013@ucsd.edu)  🌐 [sliverbulle.github.io](https://sliverbulle.github.io)
