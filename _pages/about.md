@@ -17,6 +17,8 @@ I studied at [University of Electronic Science and Technology of China](https://
 
 I worked on [Shiyanjia](https://www.shiyanjia.com/) as an AI engineer. At that time, I was responsible for the development of the company's AI products, an copilot for salesman, focusing on the application of RAG and knowledge graph in the field of material science and chemistry.
 
+Now, I am fortunate to join [Checkit Analytics](https://www.checkitanalytics.com/) as AI engineer.
+
 My area of particular fascination lies in the domain of Retrieval-augmented Generation, where I firmly believe there is ample room for innovation and enhancement beyond the current cutting-edge solutions.
 1. The integration of Knowledge Graphs into RAG systems has shown promising results in enhancing query focus summaries and improving contextual accuracy. Examples such as Microsoft's GraphRAG and Nvidia's Hybrid RAG demonstrate the potential of this approach.
 
