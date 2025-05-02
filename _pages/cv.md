@@ -15,28 +15,50 @@ Lei Hu
 Education
 =========
 * **University of California, San Diego**  
-  M.S. in Computer Science, 2024 -- present, San Diego, California
+  M.S. in Computer Science, 2024.9 -- 2026.6, San Diego, California
 * **University of Electronic Science and Technology of China**  
-  B.Eng in Computer Science and Technology | GPA: 3.98/4.00 | Ranking: Top 6%, 2024 -- present, Chengdu, China
+  B.Eng in Computer Science and Technology ,2020.9 -- 2024.6| GPA: 3.98/4.00 | Ranking: Top 5% ,Chengdu, China
 
-Relevant Coursework
+Key Courses:
 ===================
-- Data Structures
-- Software Engineering
-- Algorithms Analysis
-- Statistical NLP
-- Machine Learning
-- Internet Technology
-- Systems Programming
-- Computer Architecture
+Statistical Natural Language Processing, Machine Learning Algorithms, Search and Optimization,
+Convex Optimization, Recommender Systems and Data Mining, Algorithm Design and Analysis
 
-Experience
+
+
+ Internships
 ==========
-* **Hangzhou Yanqu Information Technology Co. (shiyanjia.com)**  
-  AI Engineer Intern | RAG, Python, Cypher, Jul 2024 -- Sep 2024, Hangzhou, China  
-  - Built a multi-index agentic RAG system, integrating GraphRAG and VectorRAG for better information extraction.
-  - Designed a pipeline for GraphRAG to support graph storage in a [Neo4j](https://neo4j.com) database and implemented local search functionality using Python and Cypher.
-  - Contributed to [nano-graphrag](https://github.com/gusye1234/nano-graphrag), an open-source repository that simplifies Microsoft's [GraphRAG](https://github.com/microsoft/graphrag) pipeline.
+* **Hangzhou Yanqu Information Technology Co., Ltd. (Hangzhou)**  
+  MLE Intern, Data Intelligence Department, Jul 2024 -- Sep 2024, Hangzhou, China  
+  AI Customer Service Assistant (Phase I Deployment)
+
+Situation: Customer service team needed fast access to technical Q&A and reassurance scripts.
+
+Target: Create an AI system for query resolution, sentiment analysis, and scripted responses.
+
+Action:
+
+Built a dual-layer GraphRAG index using Neo4j and semantic chunking.
+
+Automated transformation of unstructured knowledge into a RAG knowledge base.
+
+Implemented with LlamaIndex and constructed test dataset.
+
+Result: Phase I successfully deployed for live use.
+
+RAG Workflow Optimization
+
+Situation: No standard metrics for evaluating RAG pipelines.
+
+Target: Build a reproducible academic RAG evaluation framework.
+
+Action:
+
+Designed automated dataset generation for RAG evaluation.
+
+Benchmarked methods like Query Decomposition, HyDE, Semantic Chunking, Graph RAG.
+
+Result: Paper under submission.
 
 * **CheckIt Analytics, Start Up**  
   Co-founder | Full Stack Developer | WordPress, Python, AWS, RAG, Sep 2024 -- present, San Diego, California  
@@ -46,16 +68,14 @@ Experience
 
 Research Experience
 ===================
-* **Intelligent Network and System Group, University of Technology of China**  
-  RDMA Switching Algorithm based on Scheduling for Big Data (Supervisor: Prof Zhao Yangming), Apr 2023 -- Sep 2023, Remote  
-  - Built a multi-index agentic RAG system, integrating GraphRAG and VectorRAG for better information extraction.
-  - Designed a pipeline for GraphRAG to support graph storage in a [Neo4j](https://neo4j.com) database and implemented local search functionality using Python and Cypher.
-  - Contributed to [nano-graphrag](https://github.com/gusye1234/nano-graphrag), an open-source repository that simplifies Microsoft's [GraphRAG](https://github.com/microsoft/graphrag) pipeline.
+* **Benchmarking Retrieval-Augmented Generation: Challenging Domain-specific Datasets Generation Method**  
+IJCNN (under review)
 
-* **Business AI Lab, Nanyang Technological University**  
-  COVID-19 Image Classification Method based on Model Fusion (Supervisor: Prof. Teoh Teik Toe), Jul 2022 -- Oct 2022, Remote  
-  - Processed X-ray chest image data by image enhancement to mitigate sample imbalance.
-  - Fine-tuned DenseNet169 and completed model fusion, enhancing the accuracy of the pre-trained model by 5%.
+-Addressing domain-specific RAG evaluation bottlenecks: Proposed a universal generation framework driven by LLM instructions. Constructed datasets in XPS and medical domains with a 51.5% retrieval challenge improvement over FRAMES.
+
+-End-to-end automated generation: Developed a multi-stage optimizer using a triple-filter pipeline to generate ~33% multi-hop Q&A pairs.
+
+-Cross-domain validation: Created CDs-xps (0.8k) and CDs-medical (1.4k) datasets. Zero-shot results outperformed TrivialQA by 2.44x.
 
 Technical Skills
 ================
